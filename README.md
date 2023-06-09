@@ -22,3 +22,11 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Open the form
+```
+npm run serve
+
+### Open backend (json file)
+```
+npm run backend
